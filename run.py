@@ -4,7 +4,7 @@ os.system('rm -rf RNDM.so')
  
 try:
     if sys.argv[1]=='update':
-        os.system('rm -rf MEW.so')
+        os.system('rm -rf RNDM.so')
 except:
     pass
  
